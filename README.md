@@ -28,7 +28,7 @@ automation should be **pragmatic, maintainable and business-driven** – not ove
 
 - 🔗 **Blog & deep dives:** [PowerPlatformTip.com](https://www.powerplatformtip.com)
 - 🚀 **KMU solutions & consulting:** [KMUpower.com](https://www.kmupower.com)
-- 🎥 **Short tips & demos:** (optional) add your YouTube or other channel
+- 🎥 **Short tips & demos:** [YoutTube](https://www.youtube.com/@marcelehmann)
 - 💼 **Professional profile:** [LinkedIn](https://www.linkedin.com/in/marcelehmann)
 
 ---
